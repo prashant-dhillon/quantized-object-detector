@@ -30,7 +30,7 @@ Initializing the env
     - /quantized
         - All the quantized models will be saved here
     - /new-def-trained
-        - Holds the trained model with the new definition from navya team
+        - Holds the trained model with the new definition
 - evaluation/ Holds the evaluation scripts
 - quantization/ holds the quantization scripts 
 - pruning/ holds the pruning scripts 
